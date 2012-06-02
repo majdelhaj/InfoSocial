@@ -1,0 +1,13 @@
+
+/*****************************/
+/** BODY **/
+*{
+    margin: 0px;
+    text-decoration: none;
+    font-family: tahoma;
+    padding: 0px;
+}
+body{
+    background-image: url(../../images/body.png);
+    background-position: center;
+}

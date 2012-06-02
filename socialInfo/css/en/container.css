@@ -1,0 +1,7 @@
+#container{
+    width: 900px;
+    min-height: 400px;
+    margin: auto;
+/*    background-color: black;*/
+    margin-top: 50px;
+}
